@@ -12,7 +12,6 @@
     <com.soc_apps.transparenttouch.HoverView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@android:color/transparent"
         >
 
     </com.soc_apps.transparenttouch.HoverView>
